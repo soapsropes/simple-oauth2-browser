@@ -24,3 +24,4 @@ docs/
 .idea/
 *.iml
 .vscode
+dist/
