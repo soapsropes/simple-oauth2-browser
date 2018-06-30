@@ -1,16 +1,17 @@
 {
-  "name": "simple-oauth2",
+  "name": "simple-oauth2-browser",
   "version": "1.6.0",
   "description": "Node.js client for OAuth2",
   "author": "Andrea Reginato <andrea.reginato@gmail.com>",
   "contributors": [
-    "Jonathan Samines <jn.samines@gmail.com>"
+    "Jonathan Samines <jn.samines@gmail.com>",
+    "Joe Soap <joe.soap.ws@gmail.com>"
   ],
-  "homepage": "https://github.com/lelylan/simple-oauth2",
+  "homepage": "https://github.com/soapsropes/simple-oauth2-browser",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lelylan/simple-oauth2"
+    "url": "https://github.com/soapsropes/simple-oauth2-browser"
   },
   "engine": {
     "node": ">=4.0"
